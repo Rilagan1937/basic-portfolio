@@ -1,0 +1,103 @@
+body {
+    background-image: url(../images/dark_embroidery.png);
+    margin: 0;
+}
+header {
+    background-color: #ffffff;
+    height: 70px;
+}
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+.name {
+    font-size: 28px;
+    font-style: bold;
+    padding: 20px;
+    width: 170px;
+    color: white;
+    background-color: #4aaaa5;
+    float: left;    
+}
+
+.tabs {
+    float: right;
+    padding: 20px;
+}
+
+.mainbox {
+    background-color: #ffffff;
+    margin-top: 20px;
+    height: 500px;
+    width: 960px;
+    position: relative;
+    top: 30px;
+    margin: auto;
+}
+.h2 {
+    padding: 20px;
+    color: #4aaaa5;
+    border-bottom: 3px;
+}
+.image {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+p {
+    padding: 5px;
+    font-size: 20px;
+}
+footer {
+    background-color: #666666;
+    clear: both;
+    height: 60px;
+    margin-top: 105px;
+    border-top: 5px solid;
+    border-color: #4aaaa5;
+}
+
+h3 {
+    padding: 1px;
+    margin-left:20px;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.contact {
+    margin-left: 20px;
+    border: solid 2px #ddd;
+    margin-right: 20px;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.message {
+    margin-left: 20px;
+    border: solid 2px #ddd;
+    margin-right: 20px;
+    height: 100px
+}
+input {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.proj1 {
+    float: left;
+    margin-left: 20px;
+}
+.caption {
+    text-align: center;
+    position: relative;
+    height: 20px;
+    background-color: teal;
+    padding: 10px;
+    bottom: 50px
+}
+.projs {
+    margin-left: 75px
+}
+    
+
+
